@@ -5,6 +5,7 @@
 ## About Me
 
 <br/>
+Hey! Im Mytheral, a high school coder, and I love to play games and also make them. I started my coding experience in middle school with Python and learned Python for 2 years. Then, I wanted to learn Unity so I taught myself the Unity Engine and use that to code my newer projects.
 
 
 ## Coding Knowledge
