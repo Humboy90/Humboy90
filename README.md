@@ -12,7 +12,7 @@
 - Develop in the Unity Engine
 - Self-Taught the Unity Engine
 - 2 years of Python
-- >6 months of Java
+- Ample amount of Java
 - Brief Knowledge of HTML, CSS, JS
 
 ## Achievments
