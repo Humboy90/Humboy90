@@ -22,4 +22,4 @@ Hey! I'm Mytheral, a high school coder, and I love to play games and also make t
 
 ## Favorite/Pinned Projects
 
-- lolOS - A Windows 98 recreation (Created July 8, 2022)
+- lolOS - A Windows 98 Recreation (Created July 8, 2022)
