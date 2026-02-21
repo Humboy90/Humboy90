@@ -5,15 +5,14 @@
 ## About Me
 
 <br/>
-Hey! I'm Mytheral, a high school coder, and I love to play games and also make them. I started my coding experience in middle school with Python and learned Python for 2 years. Then, I wanted to learn Unity so I taught myself the Unity Engine and use that to code my newer projects.
+Hey! I'm Mytheral, a university student game developer. I started my coding experience in middle school with Python and learned Python for 2 years. After my introduction with Python, I joined a project with several other students and self taught myself Unity C#, leading to the creation of Busytank.io. After the conclusion of that project, I continued to work more with Unity in solo development with my two projects lolOS and Space Mash.
 
 
 ## Coding Knowledge
 
-- Develop in the Unity Engine
-- Self-Taught the Unity Engine
-- 2 years of Python
-- Ample amount of Java
+- 5 years of experience in the Unity Engine
+- 2 years of Python experience
+- 1 year of Java experience
 - Brief knowledge of HTML, CSS, JS
 
 ## Achievments
@@ -22,4 +21,5 @@ Hey! I'm Mytheral, a high school coder, and I love to play games and also make t
 
 ## Favorite/Pinned Projects
 
-- lolOS - A Windows 98 Recreation (Created July 8, 2022)
+- lolOS - A Windows 98 Recreation
+- Space Mash - Space themed wave fighter 
